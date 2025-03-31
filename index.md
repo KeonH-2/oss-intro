@@ -1,4 +1,4 @@
-# 김건희 (Keonhee Kim)  
+# 김건희 (Keonhee Kim)  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 **AI Researcher & Engineer**  
 📧 kh.kim@kw.ac.kr    
 
