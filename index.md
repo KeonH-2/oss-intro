@@ -1,6 +1,8 @@
+# 김건희 미래 이력서 (Keonhee Kim)  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+
 <div align="center">
   
-# 김건희 미래 이력서 (Keonhee Kim)  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+
 **AI Researcher & Engineer**  
 📧 kh.kim@kw.ac.kr    
 
