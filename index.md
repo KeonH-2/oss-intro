@@ -68,3 +68,7 @@ _2026.03 – 2026.06_
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/weightsandbiases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white">
 
+---
+
+## 추천인
+광운대학교 정보융합학부 박규동 교수
